@@ -1,0 +1,15 @@
+# Ambientes virtuais
+.venv/
+
+# Arquivos de variáveis sensíveis
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de log
+*.log
+
+# Arquivos do sistema/macOS
+.DS_Store
